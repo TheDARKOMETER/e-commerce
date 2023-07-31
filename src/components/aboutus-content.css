@@ -1,0 +1,72 @@
+.padding-md {
+    padding-top: 3rem;
+}
+
+main.aboutUsMain {
+    font-size: 19px;
+}
+
+div.box-black {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 100px;
+}
+
+div.box-white {
+    background-color: white;
+    color: black;
+    padding: 100px;
+}
+
+.box-padding {
+    padding: 100px;
+}
+
+div.box-black ::selection {
+    background-color: rgb(107, 53, 161, 0.5);
+
+}
+
+.col-full {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.black-bg {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+section.bg-abus {
+    background-image: url(http://127.0.0.1:8080/00010-3367000756.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+i.web-icon {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+div.box-height {
+    min-height: 600px;
+}
+
+hr {
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+section.city-bg {
+    background-image: url(http://127.0.0.1:8080/00012-1676794309.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

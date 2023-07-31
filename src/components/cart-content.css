@@ -1,0 +1,35 @@
+div.cart-list {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+div.cart-item {
+    margin-top: 24px;
+}
+
+.cart-item-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+div.cart-row {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: auto;
+    height: auto;
+}
+
+div.cart-img-container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.col-sm-3.cart-img-conntainer {
+    height: 100%;
+} 
+
+.cart-item-body {
+    text-align: left;
+}
